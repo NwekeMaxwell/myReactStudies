@@ -1,5 +1,6 @@
 //Create, Read, Update, Delete
 //FOCUS: learn how to use state (the best practices)
+// A simple todo-list to practice CRUD
 
 import "./App.css";
 import { useState } from "react";
