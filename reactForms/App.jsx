@@ -1,4 +1,5 @@
 //understand the functionalities of react form
+// learn to use yup for validation
 
 import "./App.css";
 import { Form } from "./components/Form";
